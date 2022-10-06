@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="icon" href="../hamed.jpg"/>
+
+    <meta property="og:title" content=""/>
+    <meta property="og:description" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:url" content=""/>
+    <meta property="og:type" content="website"/>
+    <style>
+   #content
+   {
+    width: 1500px;
+    margin: auto;
+   }
+   header
+   {
+    width: 1420px;
+    height: 50px;
+    background-color:#FF1E00;
+    float: right;
+   }
+   nav
+   {
+    width: 80px;
+    height: 50px;
+    background-color: #E8F9FD;
+    float: lift;
+   }
+   aside
+   {
+    width: 300px;
+    height: 2000px;
+    background-color:#59CE8F;
+    float: right;
+   } 
+   main
+   {
+    background-color: 000000;
+    width: 1200PX;
+    height: 1800PX;
+    float: left;
+   }
+   #a1
+   {
+    background-color: cadetblue;
+    float: left;
+    width: 400PX;
+    height: 400PX;
+    margin: 10px;
+   }
+   #a2
+   {
+    background-color: cadetblue;
+    float: right;
+    width: 400PX;
+    height: 400PX;
+    margin: 10px;
+   }
+
+   footer
+   {
+    width: 1200PX;
+    height: 200PX;
+    background-color: gray;
+    float: left;
+    
+   }
+   #h{
+    text-align: center;
+    margin: 0;
+    background-color:red;
+   }
+
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<div id="content">
+    <header></header>
+    <nav>
+        <select>
+            <option>en</option>
+            <option>ar</option>
+        </select>
+    </nav>
+    <aside></aside>
+    <main>
+        <article id="a1"><img src="d.jfif" width="100%" height="90%"/> <h1 id="h"> it image</h1></article></article> 
+        <article id="a2"><img  src="تنزيل.jfif"></article>
+    </main>
+    <footer></footer>
+</div>
+</body>
+</html>1
